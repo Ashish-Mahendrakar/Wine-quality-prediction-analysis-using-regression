@@ -54,12 +54,3 @@ The Wine Quality datasets can be downloaded from the [UCI Machine Learning Repos
 
 Contributions to improve the analysis or add additional features are welcome. Please submit issues or pull requests as needed.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-- UCI Machine Learning Repository for providing the Wine Quality datasets.
-- [Any other relevant acknowledgments]
-
